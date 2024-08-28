@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khởi tạo AWS Lambda on Deploy ShareNote Application on Auto Scaling Group</title>
+    <link>/2-lambda/</link>
+    <description>Recent content in Khởi tạo AWS Lambda on Deploy ShareNote Application on Auto Scaling Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Jan 1970 00:33:44 +0000</lastBuildDate><atom:link href="/2-lambda/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
